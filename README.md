@@ -29,6 +29,8 @@ After analysis some of the major factors in the data provided.We can provide th
 
 ## Technologies Used
 - Python 3
+- pandas
+- matplotlib
 - Jupyter Notebook
 
 ## Acknowledgements
