@@ -17,7 +17,7 @@ The purpose of this case study is to understand  and identify potential risky l
 - We are using the dataset provided by Lending club, that has the details of all loans issued from 2007 till 2011.
 
 ## Conclusions
-After analysis some of the major factors in the data provided.We can provide the following suggestions to Lending Club, to help them approve or reject forthcoming loan applications
+After analysis some of the major factors in the data provided. We can provide the following suggestions to Lending Club, to help them approve or reject forthcoming loan applications
 - Borrowers whose loan purpose is small business, their probability of repaying increase as the grade gets poor.
 - Restrict the number of loans provided to people from the states CA, FL and NY.
 - Double verify when the borrowers are on rent and in states ID, DC and HI
