@@ -8,4 +8,4 @@ We have uploaded a PPT as well to illustrate the major parameters to consider wh
 
 Contributors:
 * [Anil Kumar Sasi](https://github.com/aks2169/)
-* [Venu Madhav Kolloju](https://github.com/)
+* [Venu Madhav Kolloju](https://github.com/VenuMadhavKolloju)
