@@ -34,7 +34,8 @@ After analysis some of the major factors in the data provided. We can provide th
 - Jupyter Notebook
 
 ## Acknowledgements
-Contributors:
+- Upgrad Learning Portal
+- Contributors
 * [Venu Madhav Kolloju](https://github.com/VenuMadhavKolloju)
 * [Anil Kumar Sasi](https://github.com/aks2169/)
 
